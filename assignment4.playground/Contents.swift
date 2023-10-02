@@ -191,3 +191,5 @@ func filterStrings(_ strings: [String]) -> [String] {
 let array = ["snail", "bear", "lion", "giraffe", "pig"]
 let odd = filterStrings(array)
 print(odd)
+
+//ეს ბოლო სამწუხაროდ მემგონი არასწორად გავიგე, მე ვიფიქრე კენტი სიგრძე რომელ სიტყვებსაც ჰქონდა ის უნდა დამებრუნებინა, არვიცი,გვიანია და ვერ ვაზუსტებ სამწუხაროდ, რაც არის არის
